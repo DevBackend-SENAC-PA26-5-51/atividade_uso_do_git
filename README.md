@@ -26,3 +26,11 @@ Gosto de tocar violão, aprender novas coisas, ir para a igreja conversar.
 ### Super poder fictício ou Talento oculto
 
 ## _Aqui você colocar qual super poder você gostaria de ter ou um talento que você tenha._
+
+## Atividade 3
+
+Escreva sua comida favorita no arquivo mural.md seguindo o padrão abaixo
+
+### [Seu nome]
+
+Sua comida favorita
