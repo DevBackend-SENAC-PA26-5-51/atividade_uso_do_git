@@ -30,7 +30,14 @@ Gosto de tocar violão, aprender novas coisas, ir para a igreja conversar.
 ## Atividade 3
 
 Escreva sua comida favorita no arquivo mural.md seguindo o padrão abaixo
+Para isso crie uma nova branch com o padrão abaixo
+
+git switch -c feature/mural-[seu-nome]
+
+---
 
 ### [Seu nome]
 
-Sua comida favorita
+## Sua comida favorita
+
+---
