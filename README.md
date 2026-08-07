@@ -10,12 +10,10 @@ Clone o este repositório para sua máquina
 
 ## Atividade 2
 
-Sua tarefa é adicionar um novo arquivo dentro da pasta turma/
-Esse arquivo deve ter seu nome e a extensão .md, dentro dele você deve usar a seguinte estrutura abaixo
-No arquivo README.md você deve adicionar o seu nome da lista de Contribuidores usando o "- " antes dele
-Ex.:
+Crie uma nova branch chamada feature/[seu-nome]
 
-- [Seu nome]
+Em seguida sua tarefa é adicionar um novo arquivo dentro da pasta turma/
+Esse arquivo deve ter seu nome e a extensão .md, dentro dele você deve usar a seguinte estrutura abaixo
 
 ---
 
